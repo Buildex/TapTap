@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="fill_vertical"
+    android:orientation="vertical"
+    android:paddingHorizontal="50dp"
+    android:paddingVertical="50dp"
+    tools:context=".SettingsActivity">
+
+    <EditText
+        android:id="@+id/et_pseudo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="@string/nickname"
+        android:ems="10"
+        android:hint="@string/nickname"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/bt_reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reset_highscore" />
+
+    <Button
+        android:id="@+id/bt_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/share_highscore" />
+</LinearLayout>

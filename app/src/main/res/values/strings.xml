@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TapTap</string>
+    <string name="settings_title">Settings</string>
+    <string name="go_button">GO !</string>
+    <string name="player">Player: %1$s</string>
+    <string name="default_score" translatable="false">0 ms</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="ms" translatable="false">"%1$d ms"</string>
+    <string name="nickname" translatable="true">Nickname</string>
+    <string name="reset_highscore">Reset High Score</string>
+    <string name="share_highscore">Share High Score</string>
+    <string name="share_score_body">Here\'s m high score: %1$d ms</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password is not valid</string>
+</resources>

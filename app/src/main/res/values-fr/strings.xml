@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapTap</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="go_button">GO !</string>
+    <string name="player">Joueur: %1$s</string>
+    <string name="nickname">Pseudo</string>
+    <string name="reset_highscore">Réinitialiser le meilleur score</string>
+    <string name="share_highscore">Partager le meilleur score</string>
+    <string name="share_score_body">Voici mon meilleur score: %1$d ms</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter ou s\'inscrire</string>
+    <string name="action_sign_in_short">Se connecter</string>
+    <string name="welcome">Bienvenue!</string>
+    <string name="invalid_username">Ce pseudo n\'est pas valide</string>
+    <string name="invalid_password">Le mot de passe n\'est pas valide</string>
+</resources>
